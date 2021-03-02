@@ -1,0 +1,2 @@
+WAP to read a matrix of size m*n from the keyborad and display the same using functions.
+Two functions must me included.
